@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6522b4e6.css",
+    "main.js": "/static/js/main.45c4a868.js",
+    "static/media/jac_counselling.png": "/static/media/jac_counselling.b32ddcd02dda3f4c1283.png",
+    "static/media/jac_ipu_counselling.png": "/static/media/jac_ipu_counselling.632876b6603832fb4e42.png",
+    "static/media/dtu-logo_3_11zon.png": "/static/media/dtu-logo_3_11zon.a0424ce93781a3d68cfa.png",
+    "static/media/igdtuw_logo_4_11zon.png": "/static/media/igdtuw_logo_4_11zon.65d8b59cc93ec9acbf64.png",
+    "static/media/white-logo-icon_8_11zon-removebg-preview.png": "/static/media/white-logo-icon_8_11zon-removebg-preview.59772dee4eb5a5f98f62.png",
+    "static/media/Mait_Logo.png": "/static/media/Mait_Logo.169eebea8a13d0f22d8a.png",
+    "static/media/ip_counselling.jpg": "/static/media/ip_counselling.c1c69e33b419638bd5c6.jpg",
+    "static/media/NSUT_logo_7_11zon.png": "/static/media/NSUT_logo_7_11zon.a620a1d4479ba40d81aa.png",
+    "static/media/dseu-logo_2_11zon-removebg-preview.png": "/static/media/dseu-logo_2_11zon-removebg-preview.02119f113174c1bffd02.png",
+    "static/media/layer-icon_6_11zon.png": "/static/media/layer-icon_6_11zon.a4b27b3f4791492d8f50.png",
+    "static/media/VIPS_LOGO.webp": "/static/media/VIPS_LOGO.829ea5872df80e3f123c.webp",
+    "static/media/MSIT_LOGO.jpeg": "/static/media/MSIT_LOGO.7d706cc18607742560be.jpeg",
+    "static/media/GGSIPU_LOGO.png": "/static/media/GGSIPU_LOGO.86970e97c381106b4882.png",
+    "index.html": "/index.html",
+    "main.6522b4e6.css.map": "/static/css/main.6522b4e6.css.map",
+    "main.45c4a868.js.map": "/static/js/main.45c4a868.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6522b4e6.css",
+    "static/js/main.45c4a868.js"
+  ]
+}

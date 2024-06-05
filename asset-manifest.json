@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Counselorix_v3/static/css/main.6522b4e6.css",
-    "main.js": "/Counselorix_v3/static/js/main.5e3ecf9f.js",
+    "main.js": "/Counselorix_v3/static/js/main.6abcf289.js",
     "static/media/jac_counselling.png": "/Counselorix_v3/static/media/jac_counselling.b32ddcd02dda3f4c1283.png",
     "static/media/jac_ipu_counselling.png": "/Counselorix_v3/static/media/jac_ipu_counselling.632876b6603832fb4e42.png",
     "static/media/dtu-logo_3_11zon.png": "/Counselorix_v3/static/media/dtu-logo_3_11zon.a0424ce93781a3d68cfa.png",
@@ -17,10 +17,10 @@
     "static/media/GGSIPU_LOGO.png": "/Counselorix_v3/static/media/GGSIPU_LOGO.86970e97c381106b4882.png",
     "index.html": "/Counselorix_v3/index.html",
     "main.6522b4e6.css.map": "/Counselorix_v3/static/css/main.6522b4e6.css.map",
-    "main.5e3ecf9f.js.map": "/Counselorix_v3/static/js/main.5e3ecf9f.js.map"
+    "main.6abcf289.js.map": "/Counselorix_v3/static/js/main.6abcf289.js.map"
   },
   "entrypoints": [
     "static/css/main.6522b4e6.css",
-    "static/js/main.5e3ecf9f.js"
+    "static/js/main.6abcf289.js"
   ]
 }
